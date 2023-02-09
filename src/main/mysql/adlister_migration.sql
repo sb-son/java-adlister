@@ -1,5 +1,4 @@
-CREATE DATABASE IF NOT EXISTS jdbc_test;
-USE jdbc_test;
+USE adlister_db;
 
 DROP TABLE IF EXISTS ads;
 DROP TABLE IF EXISTS users;
